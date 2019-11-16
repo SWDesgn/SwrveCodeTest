@@ -6,6 +6,3 @@ Steps to run the .jar file:
 The project was built in the Eclipse Ide on the Java platform, to open select "open projects from file system".
 There are 10 test cases implemented using the JUnit framework.
 1 external library is used for handling dates and times(Joda-Time).
-
-If there are any questions, please contact me under
-altergott.oliver@gmail.com
